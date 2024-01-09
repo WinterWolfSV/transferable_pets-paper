@@ -1,0 +1,4 @@
+name: transferable_pets
+version: '${version}'
+main: winterwolfsv.transferable_pets.Transferable_Pets
+api-version: '1.20'
