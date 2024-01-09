@@ -1,0 +1,4 @@
+{
+  "transferale_pets.event.transfer.old_owner": "%s is now the owner of %s",
+  "transferale_pets.event.transfer.new_owner": "%s has transferred %s to you"
+}
